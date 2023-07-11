@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @AlenaRec, an IT Recruiter with ambition to code myself 
+- 👀 I’m interested in connecting with software engineers and people who love to code
+- 🌱 I’m currently learning my basic coding skills with HTML, CSS and JS 
+- 💞️ I’m looking to connect and build new carriers for you
+- 📫 How to reach me: alena.cornago@kellyservices.de
